@@ -63,6 +63,6 @@ h1 {
 @media (min-width: 992px) {
 	.container {
 		float: left;
-		width:33%;
+		width:32%;
 	}
 }
